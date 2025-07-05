@@ -9,6 +9,7 @@
 - [OCR](https://odiaguru.github.io/ocr/) 
 - [Rainbow Text](https://odiaguru.github.io/rainbowtext/) 
 - [Share Pics](https://odiaguru.github.io/sharepics/)
+- [Ekadashi Tithi](https://odiaguru.github.io/ekadashi/)
 
 <!---
 OdiaGuru/OdiaGuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
