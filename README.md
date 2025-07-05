@@ -5,9 +5,12 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- Here are some of my projects: 
+- Here are some of my projects:
+- [Kids Quiz](https://odiaguru.github.io/kidsQuiz/)
+- [Sudoku](https://odiaguru.github.io/sudoku/)
 - [OCR](https://odiaguru.github.io/ocr/) 
-- [Rainbow Text](https://odiaguru.github.io/rainbowtext/) 
+- [Rainbow Text](https://odiaguru.github.io/rainbowtext/)
+- [Rainbow Editor](https://odiaguru.github.io/RainbowEditor/)
 - [Share Pics](https://odiaguru.github.io/sharepics/)
 - [Ekadashi Tithi](https://odiaguru.github.io/ekadashi/)
 
