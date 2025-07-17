@@ -13,6 +13,7 @@
 - [Rainbow Editor](https://odiaguru.github.io/RainbowEditor/)
 - [Share Pics](https://odiaguru.github.io/sharepics/)
 - [Ekadashi Tithi](https://odiaguru.github.io/ekadashi/)
+- [Image Prompt](https://odiaguru.github.io/ImagePrompt/)
 
 <!---
 OdiaGuru/OdiaGuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
