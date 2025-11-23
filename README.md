@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - Here are some of my projects:
+- [BookMark](https://odiaguru.github.io/bookmark/)
 - [Kids Quiz](https://odiaguru.github.io/kidsQuiz/)
 - [Sudoku](https://odiaguru.github.io/sudoku/)
 - [OCR](https://odiaguru.github.io/ocr/) 
