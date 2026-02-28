@@ -8,8 +8,8 @@
 - [Share Pics](https://odiaguru.github.io/sharepics/)
 - [Ekadashi Tithi](https://odiaguru.github.io/ekadashi/)
 - [Image Prompt](https://odiaguru.github.io/ImagePrompt/)
-- [pdfMagic](https://odiaguru.github.io/pdfMagic/)
-- [resumeCreator](https://odiaguru.github.io/resumeCreator/)
+- [pdf Magic](https://odiaguru.github.io/pdfMagic/)
+- [Resume Builder](https://odiaguru.github.io/resumeCreator/)
 <!---
 OdiaGuru/OdiaGuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
